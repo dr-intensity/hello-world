@@ -1,0 +1,4 @@
+# Local clone of the i-have-adhd plugin marketplace source.
+# Installed via `claude plugin marketplace add ./i-have-adhd`; it is a separate
+# git repository (github.com/ayghri/i-have-adhd), not source for this project.
+/i-have-adhd/
